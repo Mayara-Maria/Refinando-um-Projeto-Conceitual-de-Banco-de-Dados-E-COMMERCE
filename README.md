@@ -39,3 +39,7 @@ Pedido
 * Pagamento – Pode ter cadastrado mais de uma forma de pagamento;
   
 *  Entrega – Possui status e código de rastreamento.
+
+
+![E-commerce](https://user-images.githubusercontent.com/107088836/222268624-1a887519-02a6-428d-a6ba-e5ccfab489ff.png)
+
